@@ -1,0 +1,12 @@
+{
+  "name": "stroitochka-onepage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Одностраничный сайт Строй•Точка для GitHub и Railway",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
